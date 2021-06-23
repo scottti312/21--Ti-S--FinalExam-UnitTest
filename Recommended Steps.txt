@@ -1,0 +1,7 @@
+1.) Add negative number exception
+
+2.) Test the negative number implementation
+
+3.) Add the ignore >1000 feature
+
+4.) Test the feature to ignore numbers >1000
